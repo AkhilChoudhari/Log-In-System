@@ -1,0 +1,21 @@
+{
+  "name": "SimpleAuth",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "app.js"
+  },
+
+ "dependencies": {
+    "express": "^4.9.7",
+    "jade": "*",
+    "nodemon": "*",
+    "mongoose" : "3.8.17",
+    "bcryptjs":"^2.0.2",
+    "body-parser":"^1.9.0",
+    "client-sessions":"^0.7.0",
+    "csurf":"^1.6.1",
+    "ejs":"*",
+    "html":"*"
+  }
+}
